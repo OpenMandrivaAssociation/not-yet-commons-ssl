@@ -1,6 +1,6 @@
 Name:           not-yet-commons-ssl
 Version:        0.3.11
-Release:        4
+Release:        6
 Summary:        Library to make SSL and Java Easier
 
 Group:          Development/Java
