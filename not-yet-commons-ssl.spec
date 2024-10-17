@@ -5,7 +5,7 @@ Summary:        Library to make SSL and Java Easier
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://juliusdavies.ca/commons-ssl
+URL:            https://juliusdavies.ca/commons-ssl
 Source0:        http://juliusdavies.ca/commons-ssl/not-yet-commons-ssl-0.3.11.zip
 Source1:        %{name}-MANIFEST.MF
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
